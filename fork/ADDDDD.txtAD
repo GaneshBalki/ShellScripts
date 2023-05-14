@@ -1,0 +1,7 @@
+select id, concat(name, ', ', summery, ', ', duration) as allone from course;
+
+select employee.empid,department.deptname,employee.empName from employee inner join department on employee.deptid = department.deptid;
+
+select employee.empid,department.deptname,employee.empName from employee LEFT join department  ON employee.deptid = department.deptid;
+
+select employee.empid,department.deptname,employee.empName from DEPARTMENT RIGTH join department  ON employee.deptid = department.deptid;

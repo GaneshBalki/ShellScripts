@@ -1,0 +1,14 @@
+Q1. write a shell script program 
+   a. to print all the not empty line
+   b. to print the line which ends with zero
+   c. print the line which start with v
+   d. print line which do not contains echo word
+   d. count all the empty lines and show many are there
+
+Q2. Get a number from user and print it in format like
+    if user give 3
+    3
+    3 3
+    3 3 3
+Q3. write a java program to calculate the difference of greatest and smallest number in an array
+ 
